@@ -1,0 +1,12 @@
+C:\Users\Martín Javier Vidal\source\repos\BEChallenge\BEChallenge.Domain\bin\Debug\net6.0\BEChallenge.Domain.deps.json
+C:\Users\Martín Javier Vidal\source\repos\BEChallenge\BEChallenge.Domain\bin\Debug\net6.0\BEChallenge.Domain.dll
+C:\Users\Martín Javier Vidal\source\repos\BEChallenge\BEChallenge.Domain\bin\Debug\net6.0\ref\BEChallenge.Domain.dll
+C:\Users\Martín Javier Vidal\source\repos\BEChallenge\BEChallenge.Domain\bin\Debug\net6.0\BEChallenge.Domain.pdb
+C:\Users\Martín Javier Vidal\source\repos\BEChallenge\BEChallenge.Domain\obj\Debug\net6.0\BEChallenge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martín Javier Vidal\source\repos\BEChallenge\BEChallenge.Domain\obj\Debug\net6.0\BEChallenge.Domain.AssemblyInfoInputs.cache
+C:\Users\Martín Javier Vidal\source\repos\BEChallenge\BEChallenge.Domain\obj\Debug\net6.0\BEChallenge.Domain.AssemblyInfo.cs
+C:\Users\Martín Javier Vidal\source\repos\BEChallenge\BEChallenge.Domain\obj\Debug\net6.0\BEChallenge.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Martín Javier Vidal\source\repos\BEChallenge\BEChallenge.Domain\obj\Debug\net6.0\BEChallenge.Domain.dll
+C:\Users\Martín Javier Vidal\source\repos\BEChallenge\BEChallenge.Domain\obj\Debug\net6.0\ref\BEChallenge.Domain.dll
+C:\Users\Martín Javier Vidal\source\repos\BEChallenge\BEChallenge.Domain\obj\Debug\net6.0\BEChallenge.Domain.pdb
+C:\Users\Martín Javier Vidal\source\repos\BEChallenge\BEChallenge.Domain\obj\Debug\net6.0\BEChallenge.Domain.csproj.AssemblyReference.cache
