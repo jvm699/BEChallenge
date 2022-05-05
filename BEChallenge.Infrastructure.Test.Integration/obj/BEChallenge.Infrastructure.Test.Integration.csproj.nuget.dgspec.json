@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.Infrastructure.Test.Integration\\BEChallenge.Infrastructure.Test.Integration.csproj": {}
+    "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.Infrastructure.Test.Integration\\BEChallenge.Infrastructure.Test.Integration.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.CrossCutting\\BEChallenge.CrossCutting.csproj": {
+    "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.CrossCutting\\BEChallenge.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.CrossCutting\\BEChallenge.CrossCutting.csproj",
+        "projectUniqueName": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.CrossCutting\\BEChallenge.CrossCutting.csproj",
         "projectName": "BEChallenge.CrossCutting",
-        "projectPath": "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.CrossCutting\\BEChallenge.CrossCutting.csproj",
+        "projectPath": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.CrossCutting\\BEChallenge.CrossCutting.csproj",
         "packagesPath": "C:\\Users\\Martín Javier Vidal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.CrossCutting\\obj\\",
+        "outputPath": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Martín Javier Vidal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.Domain\\BEChallenge.Domain.csproj": {
+    "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.Domain\\BEChallenge.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.Domain\\BEChallenge.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.Domain\\BEChallenge.Domain.csproj",
         "projectName": "BEChallenge.Domain",
-        "projectPath": "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.Domain\\BEChallenge.Domain.csproj",
+        "projectPath": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.Domain\\BEChallenge.Domain.csproj",
         "packagesPath": "C:\\Users\\Martín Javier Vidal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Martín Javier Vidal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -122,14 +122,14 @@
         }
       }
     },
-    "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.Infrastructure.Test.Integration\\BEChallenge.Infrastructure.Test.Integration.csproj": {
+    "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.Infrastructure.Test.Integration\\BEChallenge.Infrastructure.Test.Integration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.Infrastructure.Test.Integration\\BEChallenge.Infrastructure.Test.Integration.csproj",
+        "projectUniqueName": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.Infrastructure.Test.Integration\\BEChallenge.Infrastructure.Test.Integration.csproj",
         "projectName": "BEChallenge.Infrastructure.Test.Integration",
-        "projectPath": "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.Infrastructure.Test.Integration\\BEChallenge.Infrastructure.Test.Integration.csproj",
+        "projectPath": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.Infrastructure.Test.Integration\\BEChallenge.Infrastructure.Test.Integration.csproj",
         "packagesPath": "C:\\Users\\Martín Javier Vidal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.Infrastructure.Test.Integration\\obj\\",
+        "outputPath": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.Infrastructure.Test.Integration\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Martín Javier Vidal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -146,11 +146,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.Domain\\BEChallenge.Domain.csproj": {
-                "projectPath": "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.Domain\\BEChallenge.Domain.csproj"
+              "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.Domain\\BEChallenge.Domain.csproj": {
+                "projectPath": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.Domain\\BEChallenge.Domain.csproj"
               },
-              "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.Infrastructure\\BEChallenge.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.Infrastructure\\BEChallenge.Infrastructure.csproj"
+              "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.Infrastructure\\BEChallenge.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.Infrastructure\\BEChallenge.Infrastructure.csproj"
               }
             }
           }
@@ -215,14 +215,14 @@
         }
       }
     },
-    "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.Infrastructure\\BEChallenge.Infrastructure.csproj": {
+    "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.Infrastructure\\BEChallenge.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.Infrastructure\\BEChallenge.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.Infrastructure\\BEChallenge.Infrastructure.csproj",
         "projectName": "BEChallenge.Infrastructure",
-        "projectPath": "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.Infrastructure\\BEChallenge.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.Infrastructure\\BEChallenge.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Martín Javier Vidal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Martín Javier Vidal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -239,11 +239,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.CrossCutting\\BEChallenge.CrossCutting.csproj": {
-                "projectPath": "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.CrossCutting\\BEChallenge.CrossCutting.csproj"
+              "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.CrossCutting\\BEChallenge.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.CrossCutting\\BEChallenge.CrossCutting.csproj"
               },
-              "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.Domain\\BEChallenge.Domain.csproj": {
-                "projectPath": "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.Domain\\BEChallenge.Domain.csproj"
+              "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.Domain\\BEChallenge.Domain.csproj": {
+                "projectPath": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.Domain\\BEChallenge.Domain.csproj"
               }
             }
           }

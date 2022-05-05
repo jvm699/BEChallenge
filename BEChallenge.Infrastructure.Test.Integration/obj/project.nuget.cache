@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j+PQH/Z1JO90mTrgwAfJjFJjC/QURAGWdHUJaPrIJjyLJLmizw6XjuZ9TrkezjwuCv1QlpxPzCkItwWMnjCmWA==",
+  "dgSpecHash": "6F5gc7jh6B8gMlxHHy0Cf+tgF3n5idR1NXFKUlvdxSOhkw8lPVI7+HNGQwXoXIwVUMkRVmZW/7JUet0YgK8u/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.Infrastructure.Test.Integration\\BEChallenge.Infrastructure.Test.Integration.csproj",
+  "projectFilePath": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.Infrastructure.Test.Integration\\BEChallenge.Infrastructure.Test.Integration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Martín Javier Vidal\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Martín Javier Vidal\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.Domain\\BEChallenge.Domain.csproj": {}
+    "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.Domain\\BEChallenge.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.Domain\\BEChallenge.Domain.csproj": {
+    "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.Domain\\BEChallenge.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.Domain\\BEChallenge.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.Domain\\BEChallenge.Domain.csproj",
         "projectName": "BEChallenge.Domain",
-        "projectPath": "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.Domain\\BEChallenge.Domain.csproj",
+        "projectPath": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.Domain\\BEChallenge.Domain.csproj",
         "packagesPath": "C:\\Users\\Martín Javier Vidal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Martín Javier Vidal\\AppData\\Roaming\\NuGet\\NuGet.Config",

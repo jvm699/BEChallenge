@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.CrossCutting\\BEChallenge.CrossCutting.csproj",
+      "projectUniqueName": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.CrossCutting\\BEChallenge.CrossCutting.csproj",
       "projectName": "BEChallenge.CrossCutting",
-      "projectPath": "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.CrossCutting\\BEChallenge.CrossCutting.csproj",
+      "projectPath": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.CrossCutting\\BEChallenge.CrossCutting.csproj",
       "packagesPath": "C:\\Users\\Martín Javier Vidal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.CrossCutting\\obj\\",
+      "outputPath": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.CrossCutting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Martín Javier Vidal\\AppData\\Roaming\\NuGet\\NuGet.Config",

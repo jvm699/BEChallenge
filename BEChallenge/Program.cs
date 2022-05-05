@@ -4,6 +4,7 @@ using BEChallenge.Service.CommandHandler;
 using Microsoft.AspNetCore.Mvc.Infrastructure;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,10 +20,13 @@ services.AddSingleton<IActionContextAccessor, ActionContextAccessor>();
 services.AddServicesDependencies();
 services.AddDataAccess();
 
-services.AddDbContext<BEChallengeDbContext>(options => options.UseSqlServer(configuration.GetConnectionString(nameof(BEChallengeDbContext)), sqlOptions =>
-{
-    sqlOptions.CommandTimeout(60);
-}));
+services.AddDbContext<BEChallengeDbContext>(
+    options => options.UseSqlServer(configuration.GetConnectionString(nameof(BEChallengeDbContext)),
+    sqlOptions => 
+    {
+        sqlOptions.MigrationsAssembly(Assembly.GetExecutingAssembly().GetName().Name);
+        sqlOptions.CommandTimeout(60);
+    }));
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();

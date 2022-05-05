@@ -16,9 +16,7 @@ namespace BEChallenge.Service.QueryHandler
 
         public async Task<List<UserView>> Handle(UserAllQuery query)
         {
-
-            var t = await this.unitOfWork.UserRepository.AllAsNoTracking().ToListAsync();
-            return t
+            return await this.unitOfWork.UserRepository.AllAsNoTracking()
                 .Select(x => new UserView() 
                 { 
                     Id = x.Id,
@@ -26,7 +24,7 @@ namespace BEChallenge.Service.QueryHandler
                     BirthDate = x.BirthDate,
                     Active = x.Active
                 })
-                .ToList();
+                .ToListAsync();
         }
     }
 }

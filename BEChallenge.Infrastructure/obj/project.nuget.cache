@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7UmEYiQOEjJy8wrIJP6Lgs1jiI2aWgakcrT2OURTtQ2rDjut1ZbaLdnKrsL2Fvd3PWyL9YakSWEjOtH+1AxVSg==",
+  "dgSpecHash": "gLCL/FcgUgvKuve6+oYVGaVTlfTiu166i9UyQC51Hm1dJTFw5399PQidYxOUOZNcU773AmwBkMxFwXOqhyUNyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Martín Javier Vidal\\source\\repos\\BEChallenge\\BEChallenge.Infrastructure\\BEChallenge.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.Infrastructure\\BEChallenge.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Martín Javier Vidal\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Martín Javier Vidal\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
