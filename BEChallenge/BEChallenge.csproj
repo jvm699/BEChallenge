@@ -15,6 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\BEChallenge.API.Shared\BEChallenge.API.Shared.csproj" />
     <ProjectReference Include="..\BEChallenge.Domain\BEChallenge.Domain.csproj" />
     <ProjectReference Include="..\BEChallenge.Service\BEChallenge.Service.csproj" />
   </ItemGroup>

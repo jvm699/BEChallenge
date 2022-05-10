@@ -13,7 +13,6 @@ C:\Users\Martín Javier Vidal\Documents\BEChallenge\BEChallenge.CrossCutting\bin
 C:\Users\Martín Javier Vidal\Documents\BEChallenge\BEChallenge.CrossCutting\bin\Debug\net6.0\BEChallenge.CrossCutting.dll
 C:\Users\Martín Javier Vidal\Documents\BEChallenge\BEChallenge.CrossCutting\bin\Debug\net6.0\ref\BEChallenge.CrossCutting.dll
 C:\Users\Martín Javier Vidal\Documents\BEChallenge\BEChallenge.CrossCutting\bin\Debug\net6.0\BEChallenge.CrossCutting.pdb
-C:\Users\Martín Javier Vidal\Documents\BEChallenge\BEChallenge.CrossCutting\obj\Debug\net6.0\BEChallenge.CrossCutting.csproj.AssemblyReference.cache
 C:\Users\Martín Javier Vidal\Documents\BEChallenge\BEChallenge.CrossCutting\obj\Debug\net6.0\BEChallenge.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Martín Javier Vidal\Documents\BEChallenge\BEChallenge.CrossCutting\obj\Debug\net6.0\BEChallenge.CrossCutting.AssemblyInfoInputs.cache
 C:\Users\Martín Javier Vidal\Documents\BEChallenge\BEChallenge.CrossCutting\obj\Debug\net6.0\BEChallenge.CrossCutting.AssemblyInfo.cs

@@ -1,0 +1,15 @@
+C:\Users\Martín Javier Vidal\Documents\BEChallenge\BEChallenge.API.Shared\bin\Debug\net6.0\BEChallenge.API.Shared.deps.json
+C:\Users\Martín Javier Vidal\Documents\BEChallenge\BEChallenge.API.Shared\bin\Debug\net6.0\BEChallenge.API.Shared.dll
+C:\Users\Martín Javier Vidal\Documents\BEChallenge\BEChallenge.API.Shared\bin\Debug\net6.0\ref\BEChallenge.API.Shared.dll
+C:\Users\Martín Javier Vidal\Documents\BEChallenge\BEChallenge.API.Shared\bin\Debug\net6.0\BEChallenge.API.Shared.pdb
+C:\Users\Martín Javier Vidal\Documents\BEChallenge\BEChallenge.API.Shared\bin\Debug\net6.0\BEChallenge.CrossCutting.dll
+C:\Users\Martín Javier Vidal\Documents\BEChallenge\BEChallenge.API.Shared\bin\Debug\net6.0\BEChallenge.CrossCutting.pdb
+C:\Users\Martín Javier Vidal\Documents\BEChallenge\BEChallenge.API.Shared\obj\Debug\net6.0\BEChallenge.API.Shared.csproj.AssemblyReference.cache
+C:\Users\Martín Javier Vidal\Documents\BEChallenge\BEChallenge.API.Shared\obj\Debug\net6.0\BEChallenge.API.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martín Javier Vidal\Documents\BEChallenge\BEChallenge.API.Shared\obj\Debug\net6.0\BEChallenge.API.Shared.AssemblyInfoInputs.cache
+C:\Users\Martín Javier Vidal\Documents\BEChallenge\BEChallenge.API.Shared\obj\Debug\net6.0\BEChallenge.API.Shared.AssemblyInfo.cs
+C:\Users\Martín Javier Vidal\Documents\BEChallenge\BEChallenge.API.Shared\obj\Debug\net6.0\BEChallenge.API.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Martín Javier Vidal\Documents\BEChallenge\BEChallenge.API.Shared\obj\Debug\net6.0\BEChallenge.API.Shared.csproj.CopyComplete
+C:\Users\Martín Javier Vidal\Documents\BEChallenge\BEChallenge.API.Shared\obj\Debug\net6.0\BEChallenge.API.Shared.dll
+C:\Users\Martín Javier Vidal\Documents\BEChallenge\BEChallenge.API.Shared\obj\Debug\net6.0\ref\BEChallenge.API.Shared.dll
+C:\Users\Martín Javier Vidal\Documents\BEChallenge\BEChallenge.API.Shared\obj\Debug\net6.0\BEChallenge.API.Shared.pdb

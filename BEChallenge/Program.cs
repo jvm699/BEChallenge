@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc.Infrastructure;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
 using System.Reflection;
+using BEChallenge.API.Shared.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -47,7 +48,7 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
-
+app.ConfigureCustomExceptionMiddleware();
 app.MapControllers();
 
 app.Run();

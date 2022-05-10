@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.API.Shared\\BEChallenge.API.Shared.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.API.Shared\\BEChallenge.API.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.API.Shared\\BEChallenge.API.Shared.csproj",
+        "projectName": "BEChallenge.API.Shared",
+        "projectPath": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.API.Shared\\BEChallenge.API.Shared.csproj",
+        "packagesPath": "C:\\Users\\Martín Javier Vidal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.API.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Martín Javier Vidal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.CrossCutting\\BEChallenge.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.CrossCutting\\BEChallenge.CrossCutting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.CrossCutting\\BEChallenge.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.CrossCutting\\BEChallenge.CrossCutting.csproj",
+        "projectName": "BEChallenge.CrossCutting",
+        "projectPath": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.CrossCutting\\BEChallenge.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\Martín Javier Vidal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Martín Javier Vidal\\Documents\\BEChallenge\\BEChallenge.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Martín Javier Vidal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
